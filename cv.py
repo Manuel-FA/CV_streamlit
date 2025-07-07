@@ -24,10 +24,10 @@ def mostrar_perfil():
     st.markdown("<h4 style='text-align: center;'>Analista de Datos | Científico de Datos</h4>", unsafe_allow_html=True)
     
     st.markdown("""
-    Soy un ingeniero especializado en análisis de datos y programación. Transformo datos utilizando herramientas como Excel y Python, proporcionando a directivos información clave para la toma de decisiones estratégicas.
+    Soy un ingeniero especializado en análisis de datos y programación. Transformo datos utilizando herramientas como Excel y Python, proporcionando información clave para la toma de decisiones estratégicas.
     """)
 
-    st.markdown("## 🚀 Proyectos que destaco")
+    st.markdown("Proyectos destacados:")
 
     st.markdown("""
     **📊 Aplicación web para análisis de datos**  
