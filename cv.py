@@ -44,7 +44,7 @@ def mostrar_perfil():
     Visita la publicación en el siguiente enlace: https://doi.org/10.3390/aerospace11010044
     """)
 
-    st.image("imagenes\portada_articulo_alta_res.png", width=1200)
+    st.image("imagenes/portada_articulo_alta_res.png", width=1200)
 
 def mostrar_experiencia():
     st.title("💼 Experiencia")
@@ -136,9 +136,9 @@ El éxito de mi trabajo recepcional, en el cual utilicé un algoritmo de IA para
 
     col1, col2 = st.columns(2)
     with col1:
-            st.image("imagenes\puebla.PNG", width=400)
+            st.image("imagenes/puebla.PNG", width=400)
     with col2:
-            st.image("imagenes\inidetam.PNG", width=400)
+            st.image("imagenes/inidetam.PNG", width=400)
 
 def mostrar_cursos():
     st.title("📚 Cursos y Certificaciones")
@@ -148,17 +148,17 @@ def mostrar_cursos():
     st.markdown("""
 - IBM Machine Learning. Coursera. Junio 2025.
     """)
-    st.image("imagenes\ml.png", width=800)
+    st.image("imagenes/ml.png", width=800)
 
     st.markdown("""
 - IBM Data Analyst Professional Certificate. Coursera. Mayo 2024.
     """)
-    st.image("imagenes\data_analyst.png", width=800)
+    st.image("imagenes/data_analyst.png", width=800)
 
     st.markdown("""             
 - Microsoft Power BI Data Analyst. Coursera. Julio 2024.
     """)
-    st.image("imagenes\bi.png", width=800)
+    st.image("imagenes/bi.png", width=800)
     
     st.markdown("""
 - Comunicación para líderes. Platzi. Junio 2024.
